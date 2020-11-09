@@ -8,3 +8,7 @@
 ____________________________________
 ### -Arquitetura de Computadores:
 [Organização Básica de Computadores e Linguagem de Montagem](https://github.com/TulioNPL/ComputerScienceBooks/blob/master/Organiza%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Computadores%20e%20Linguagem%20de%20Montagem.epub)
+
+____________________________________
+### -Pentesting:
+[Penetration Testing - A Hands-On Introduction to Hacking - Georgia Weidman](https://github.com/TulioNPL/ComputerScienceBooks/blob/master/Penetration%20Testing%20A%20Hands-On%20Introduction%20to%20Hacking.pdf)
